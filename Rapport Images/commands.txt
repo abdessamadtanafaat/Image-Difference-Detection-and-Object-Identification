@@ -1,0 +1,1 @@
+python detect_objects.py Images/Chambre/Reference.JPG Images/Chambre/IMG_1.JPG Chambre 1
